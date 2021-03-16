@@ -1,0 +1,1 @@
+# Teste Internacionalização (i18n)

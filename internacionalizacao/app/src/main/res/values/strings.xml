@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ExemploInternacionalizacao</string>
+    <string name="hello_world">Olá mundo</string>
+    <string name="ola_mensagem">Olá</string>
 </resources>
