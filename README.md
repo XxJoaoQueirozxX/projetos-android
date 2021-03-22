@@ -6,3 +6,5 @@ Repositorio com os APP's android desenvolvidos nas aulas de Hybrid App Mobile De
 - [Informações de contato](https://github.com/XxJoaoQueirozxX/projetos-android/tree/master/CheckButtons)
 - [Rolar dados](https://github.com/XxJoaoQueirozxX/projetos-android/tree/master/SortearDados)
 - [Internacionalização](https://github.com/XxJoaoQueirozxX/projetos-android/tree/master/internacionalizacao)
+- [Lista de estados](https://github.com/XxJoaoQueirozxX/projetos-android/tree/master/Estados)
+- [To do](https://github.com/XxJoaoQueirozxX/projetos-android/tree/master/ToDo)
